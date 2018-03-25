@@ -1,0 +1,21 @@
+设置JDK版本
+archlinux-java status
+archlinux-java get
+sudo archlinux-java set java-8-openjdk/jre
+sudo archlinux-java set java-9-openjdk
+
+设置亮度需要：xorg-xbacklight
+
+Telegram无法输入中文：
+安装fcitx-im;
+管理员权限打开/ust/share/applications/telegramdesktop.desktop;
+修改 Exec=... 行，在Exec=后插入env QT_IM_MODULE=fcitx;
+完成后如下：
+Exec=env QT_IM_MODULE=fcitx telegram-desktop -- %u
+Done.
+
+ncmpcpp快捷键
+y: 单曲循环
+c：清空播放列表
+=：时钟
+
