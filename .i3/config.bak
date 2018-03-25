@@ -205,6 +205,7 @@ assign [class="Et"] $ws2
 assign [class="shadowsocks-qt5"] $ws8
 assign [class="jetbrains-idea-ce"] $ws6
 assign [class="TelegramDesktop"] $ws8
+assign [class="Shutter"] $ws7
 
 
 # Open specific applications in floating mode
@@ -304,6 +305,8 @@ exec --no-startup-id feh --bg-scale ~/Pictures/wp1.jpg
 exec --no-startup-id fcitx
 #exec --no-startup-id manjaro-hello
 exec --no-startup-id nm-applet
+exec --no-startup-id mpd
+#exec --no-startup-id ncmpcpp -p 53000
 #exec --no-startup-id xfce4-power-manager
 #exec --no-startup-id mate-power-manager
 #exec --no-startup-id pamac-tray

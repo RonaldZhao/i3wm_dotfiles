@@ -205,6 +205,7 @@ assign [class="Et"] $ws2
 assign [class="shadowsocks-qt5"] $ws8
 assign [class="jetbrains-idea-ce"] $ws6
 assign [class="TelegramDesktop"] $ws8
+assign [class="Shutter"] $ws7
 
 
 # Open specific applications in floating mode
