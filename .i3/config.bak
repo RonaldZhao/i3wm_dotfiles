@@ -296,7 +296,7 @@ exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 #exec --no-startup-id nitrogen --restore; sleep 1; compton -b
 exec --no-startup-id compton -b
 # 设置桌面壁纸
-exec --no-startup-id feh --bg-scale ~/Pictures/wp2.jpg
+exec --no-startup-id feh --bg-scale ~/Pictures/wp1.jpg
 exec --no-startup-id fcitx
 exec --no-startup-id nm-applet
 exec --no-startup-id mpd
