@@ -1,0 +1,70 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: play
+current: 0
+time: 4.017000
+random: 1
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Alien Cut,Renée - Jump.mp3
+1:Alok,Sevenn - BYOB.mp3
+2:Bailey Baker - Going Strong.mp3
+3:Befour - How Do You Do ？.mp3
+4:Cliff Wedge - Go go yellow screen - Radio Edit.mp3
+5:D1ofaquavibe - The Party Troll.mp3
+6:Defrix - Walking In the Sun (Defrix Remix).mp3
+7:DJ Mr.Zi - Dj Mr.Zi - 七色云彩（DJ Mr.Zi remix）.mp3
+8:Dripice - Escape.mp3
+9:Elize - Sexual Healing.mp3
+10:Elliott Yamin - Don't Be Afraid.mp3
+11:Galileo Galilei - 青い栞.mp3
+12:George Nozuka - Talk to Me.mp3
+13:Groove Coverage - On the Radio.mp3
+14:Groove Coverage - She.mp3
+15:Hakan Akkus - I Can't Be (Original Mix).mp3
+16:In-Grid - I'm Folle de Toi - In-Grid, Banks, C.mp3
+17:Jamillions - Love you like I do - Original.mp3
+18:Jason Chen - Love The Way You Lie.mp3
+19:Joan Jett & the Blackhearts - I Hate Myself For Loving You.mp3
+20:M2 - Tu vivi nell aria(加快版).mp3
+21:Macdo - Fantasia De Amor.mp3
+22:Martin Tungevaag - Wicked Wonderland.mp3
+23:Mazza - Summer (Klaas Remix).mp3
+24:Mitch Crown,Hardwell - Call Me A Spaceman.mp3
+25:MKJ - Time.mp3
+26:Nick Fury - Rebound.mp3
+27:Niykee Heaton - Skin Tight.mp3
+28:One Direction - Another World.mp3
+29:One Direction - Gotta Be You - Steve Smart & Westfunk Remix.mp3
+30:One Direction - Irresistible.mp3
+31:One Direction - Just Can't Let Her Go.mp3
+32:One Direction - Magic.mp3
+33:Remady - L-Holidays (Radio Edit).mp3
+34:Reynard Silva - I Need You.mp3
+35:Ryan.B,AY楊佬叁 - 再也没有.mp3
+36:Sami - Love You Like A Love Song.mp3
+37:Sarina Paris - Just About Enough.mp3
+38:Stevie Hoang - THINKING OF YOU.mp3
+39:Susan Wong - Wind Of Change.mp3
+40:于荣光 - 少林英雄.mp3
+41:井上実優 - Boogie Back.mp3
+42:初夏小溪 - 幸你从未放弃.mp3
+43:司夏 - 与你最后的夏天.mp3
+44:吉井和哉 - 超絶☆ダイナミック!.mp3
+45:吉井和哉 - 超絶☆ダイナミック!(TV size).mp3
+46:大张伟 - 只想和你静度时光.mp3
+47:海楠 - 爱啦啦.mp3
+48:王建房 - 在人间.mp3
+49:茅野愛衣,戸松遥,早見沙織 - secret base ~君がくれたもの~ (10 years after Ver.).mp3
+50:锦零 - 春风吹（Cover 方大同）.mp3
+51:陈壹千,疯猴儿 - 我的都是你的.mp3
+52:青行枝,柳亦小米,水云阙 - 清明樱花祭.mp3
+53:麦小兜 - 9420.mp3
+54:黑崎子 - Attention(Acoustic ver.)（Cover Charlie Puth）.mp3
+playlist_end

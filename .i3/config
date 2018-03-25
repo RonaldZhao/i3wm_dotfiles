@@ -185,10 +185,6 @@ bindsym $mod+Shift+7 move container to workspace $ws7; workspace $ws7
 bindsym $mod+Shift+8 move container to workspace $ws8; workspace $ws8
 
 # Open applications on specific workspaces
-# assign [class="Thunderbird"] $ws1
-# assign [class="Pale moon"] $ws2
-# assign [class="Pcmanfm"] $ws3
-# assign [class="Skype"] $ws5
 assign [class="Lxterminal"] $ws1
 assign [class="qutebrowser"] $ws3
 assign [class="Code"] $ws2
@@ -234,7 +230,6 @@ for_window [class="qt5ct"] floating enable sticky enable border normal
 for_window [class="Qtconfig-qt4"] floating enable sticky enable border normal
 for_window [class="Simple-scan"] floating enable border normal
 for_window [class="(?i)System-config-printer.py"] floating enable border normal
-for_window [class="Skype"] floating enable border normal
 for_window [class="Thus"] floating enable border normal
 for_window [class="Timeset-gui"] floating enable border normal
 for_window [class="(?i)virtualbox"] floating enable border normal
@@ -301,16 +296,11 @@ exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 #exec --no-startup-id nitrogen --restore; sleep 1; compton -b
 exec --no-startup-id compton -b
 # 设置桌面壁纸
-exec --no-startup-id feh --bg-scale ~/Pictures/wp1.jpg
+exec --no-startup-id feh --bg-scale ~/Pictures/wp2.jpg
 exec --no-startup-id fcitx
-#exec --no-startup-id manjaro-hello
 exec --no-startup-id nm-applet
 exec --no-startup-id mpd
-#exec --no-startup-id ncmpcpp -p 53000
 #exec --no-startup-id xfce4-power-manager
-#exec --no-startup-id mate-power-manager
-#exec --no-startup-id pamac-tray
-#exec --no-startup-id clipit
 # exec --no-startup-id blueman-applet
 # exec_always --no-startup-id sbxkb
 # 下面这行是启动桌面的两个小工具
