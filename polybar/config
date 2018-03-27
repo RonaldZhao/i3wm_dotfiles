@@ -96,7 +96,7 @@ icon-prev = ""
 icon-play = ""
 icon-pause = ""
 icon-next = " "
-label-song = %{F#08ff0b}   %{F-} %{F#934897} %title%   %{F-}
+label-song = %{F#08ff0b}   %{F-} %{F#F424B7} %title%   %{F-}
 
 toggle-on-foreground = ${colors.primary}
 toggle-off-foreground = ${colors.secondary}
@@ -215,7 +215,8 @@ full-at = 98
 ; Use the following command to list batteries and adapters:
 ; $ ls -1 /sys/class/power_supply/
 battery = BAT0
-adapter = ACAD
+;adapter = ACAD
+adapter = BAT0
 
 poll-interval = 5
 time-format = %H:%M
@@ -235,6 +236,7 @@ ramp-capacity-2 = ""
 ramp-capacity-3 = ""
 ramp-capacity-4 = ""
 ramp-capacity-background = ${colors.b-alt}
+ramp-capacity-foreground = #0ff
 bar-capacity-width = 10
 animation-charging-0 = ""
 animation-charging-1 = ""
@@ -243,13 +245,13 @@ animation-charging-3 = ""
 animation-charging-4 = ""
 animation-charging-framerate = 750
 animation-charging-background = ${colors.b-alt}
+animation-charging-foreground = #0f0
 
 
 [module/xkeyboard]
 type = internal/xkeyboard
 blacklist-0 = num lock
-label-indicator-background = ${colors.secondary}
-label-indicator-underline = ${colors.secondary}
+label-indicator-background = #f00
 
 
 [module/filesystem]
