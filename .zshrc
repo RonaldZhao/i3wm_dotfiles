@@ -98,17 +98,13 @@ source $ZSH/oh-my-zsh.sh
 alias dockerstart="sudo systemctl start docker" # 启动Docker
 alias dockerstop="sudo systemctl stop docker" # 停止Docker
 
-# 设置终端代理
-alias setproxy="export ALL_PROXY=socks5://127.0.0.1:1080"
-alias unsetproxy="unset ALL_PROXY"
-
 # 查看IP
 alias ip="curl -i http://ip.cn"
 
 # 检查更新
 alias checkupdate="sudo pacman -Syu"
 
-alias clear="cls"
+alias cls="clear"
 
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
