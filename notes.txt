@@ -21,4 +21,22 @@ c：清空播放列表
 
 终端背景色：2A363B/0C1629,透明200
 终端前景色：E8175D/43CBFF
-终端字体：Hack ,10号
+终端字体：TerminessTTF Nerd Font,Hack ,10号
+
+终端配置：
+zsh + oh-my-zsh + powerlevel9k + autojump + zsh-syntax-highlighting + zsh-autosuggestions
+相关链接：https://blog.jae.sh/article/zqle60.html
+
+----------
+听音乐配置：mpd + ncmcpp + (mpc) + mpdviz(独立的mpd可视化)
+
+
+-------------------
+Vim插件
+vim-jedi: an awesome Python autocompletion.
+一个网站：linux-wiki.cn
+
+
+------------------------
+mysql 修改密码：
+使用初始密码登录后：set password for 'root‘@'localhost'=password('password_string');
